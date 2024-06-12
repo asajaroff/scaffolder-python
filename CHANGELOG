@@ -27,5 +27,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic repository structure
 - Common files (CHANGELOG, LICENSE, README.md, .editorconfig, .gitignore, .python-version)
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
+[unreleased]: https://github.com/asajaroff/scaffolder-python/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/asajaroff/scaffolder-python/releases/tag/v0.0.1
